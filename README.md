@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJs**
                    
-- 👨‍💻 All of my projects are available at [https://mahfujur-rahman-portfolio.netlify.app/](https://mahfujur-rahman-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rmahfujur.netlify.app/](https://rmahfujur.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
