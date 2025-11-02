@@ -91,6 +91,7 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white" alt="XAMPP"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white" alt="Terminal"/>
+  <img src="https://img.shields.io/badge/Cursor-5A45FF.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Cursor"/>
 </p>
 
 
