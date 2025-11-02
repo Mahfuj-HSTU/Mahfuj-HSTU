@@ -7,6 +7,9 @@
 <h1 align="center">Hi 👋, I'm Mahfujur Rahman</h1>
 <h3 align="center">A passionate Software Development Engineer from Bangladesh 🇧🇩</h3>
 
+<!-- ADD THE CONTENT HERE -->
+💬 <b>Drop a mail:</b> <a href="mailto:mahfuj0172@gmail.com" target="_blank"> mahfuj0172@gmail.com</a>
+
 <!-- Profile Picture -->
 <p align="left">
  <a href="https://facebook.com/rmahfujur" target="_blank">
@@ -108,6 +111,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuj-hstu&show_icons=true&locale=en&theme=monokai" alt="mahfuj-hstu" /></p>
+
 
 
 
