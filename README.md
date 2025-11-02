@@ -58,8 +58,7 @@
   </a>
 </p>
 
-<br/>
-
+<!-- <br/> -->
 
 <h3 align="left">Languages & Tools</h3>
 
@@ -111,6 +110,11 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuj-hstu&show_icons=true&locale=en&theme=monokai" alt="mahfuj-hstu" /></p>
+<h3 align="left">📊 GitHub Analytics</h3>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mahfuj-hstu&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27" alt="GitHub Streak"/>
+</p>
+
 
 
 
