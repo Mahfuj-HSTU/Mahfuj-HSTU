@@ -9,9 +9,15 @@
 
 <!-- Profile Picture -->
 <p align="left">
-  <a href="https://facebook.com/rmahfujur" target="_blank">
-    <img src="https://i.ibb.co/25FczLf/20200702-202856.jpg" alt="mahfuj-hstu" width="100" style="border-radius: 50%;" />
-  </a>
+ <a href="https://facebook.com/rmahfujur" target="_blank">
+  <img 
+    src="https://res.cloudinary.com/dvtf0kosr/image/upload/v1724256265/2025010002I%20am.jpg" 
+    alt="mahfuj-hstu" 
+    width="50" 
+    height="50" 
+    style="border-radius: 50%;"
+  />
+</a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=mahfuj-hstu&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuj-hstu" />
   &nbsp;&nbsp;&nbsp;
@@ -28,11 +34,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Next.js**, **PostgreSQL**, and **Go (Golang)**
                    
 - 👨‍💻 All of my projects are available at [https://rmahfujur.netlify.app/](https://rmahfujur.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PKFso3eppsWcnNEBWrF2PqUslLCLxTOT/view?usp=sharing](https://drive.google.com/file/d/1iW9COVmwPioQDiXmhh5UcpR93pDQFIIA/view?usp=drive_link)
 
